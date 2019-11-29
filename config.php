@@ -12,16 +12,16 @@
 // Global Site Config
 //======================================================================
 
-	define( "SITE_URL" , "https://demo.ruster.site" );
+	define( "SITE_URL" , "https://mrrogersneighborhoodrustserver.github.io/WebsiteMain/" );
 	# Your website URL
 
-	define( "SRV_NAME" , "Mega Awesome Servers" );
+	define( "SRV_NAME" , "Mr. Rogers Neighborhood" );
     # Server or project name, will be used as title
 
-    define( "SRV_SLOGAN" , "Mega Awesome Servers Slogan" );
+    define( "SRV_SLOGAN" , "Won't you be my neighbor?" );
     # Server or project slogan, will be used as slogan and description
 
-    define( "SRV_TWITTER" , "Mo_45" );
+    define( "SRV_TWITTER" , "Rust_Rogers" );
     # Your server twitter username without @ (will be used in twitter meta tags and social links)
 
 	define( "CACHE_LIFETIME" , "300" );
